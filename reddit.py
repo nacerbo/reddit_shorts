@@ -12,10 +12,10 @@ import mysql.connector
 
 
 mydb = mysql.connector.connect(
-  host="5.189.176.126",
-  user="admin",
-  password="CMFB8LXQG7ADF2b",
-  database="reddit_shorts"
+  host="",
+  user="",
+  password="",
+  database=""
 )
 
 client_id  = ""
