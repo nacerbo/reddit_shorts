@@ -7,10 +7,10 @@ import os
 import mysql.connector
 
 mydb = mysql.connector.connect(
-  host="5.189.176.126",
-  user="admin",
-  password="CMFB8LXQG7ADF2b",
-  database="mhfoudh_reddit"
+  host="",
+  user="",
+  password="",
+  database=""
 )
 
 # generate submission video
